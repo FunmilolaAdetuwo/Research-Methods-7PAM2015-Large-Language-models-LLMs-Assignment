@@ -5,21 +5,21 @@ Using DistilBERT, a streamlined version of the BERT model, this project aims to 
 
 #### **Dataset**
 
-_Dataset Name: SMS Spam Collection
-_Source: Hugging Face
-_Size: 5,574 labeled SMS messages
-_Labels: "Spam" and "Ham"
+-Dataset Name: SMS Spam Collection
+-Source: Hugging Face
+-Size: 5,574 labeled SMS messages
+-Labels: "Spam" and "Ham"
 
 ### **Key Features**
-_Model: Fine-tuned DistilBERT for binary text classification.
-_Deployment: Flask-based API for real-time SMS spam detection.
-_Performance: High accuracy, precision, and recall on test data, ensuring reliable spam classification.
+-Model: Fine-tuned DistilBERT for binary text classification.
+-Deployment: Flask-based API for real-time SMS spam detection.
+-Performance: High accuracy, precision, and recall on test data, ensuring reliable spam classification.
 
 #### **Results**
-_Test Accuracy: 99.55%
-_Precision: 98.15%
-_Recall: 98.76%
-_F1-Score: 98.45%
+-Test Accuracy: 99.55%
+-Precision: 98.15%
+-Recall: 98.76%
+-F1-Score: 98.45%
 The model demonstrates strong performance, effectively identifying both spam and ham messages with high accuracy and minimal misclassifications.
 
 #### **Conclusion**
